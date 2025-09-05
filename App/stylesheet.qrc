@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Darkeum.qss</file>
+        <file>arrow-down.png</file>
+    </qresource>
+</RCC>
